@@ -1,0 +1,31 @@
+{
+  "name": "yavuz",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.0",
+    "expo": "~50.0.11",
+    "expo-status-bar": "~1.11.1",
+    "lodash": "^4.17.21",
+    "lottie-react-native": "^6.7.0",
+    "react": "18.2.0",
+    "react-hook-form": "^7.51.0",
+    "react-native": "0.73.4",
+    "react-native-credit-card-input": "^0.4.1",
+    "rn-credit-card": "^0.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "private": false
+}
